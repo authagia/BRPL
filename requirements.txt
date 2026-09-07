@@ -1,0 +1,5 @@
+miniaudio==1.71
+numpy==2.3.2
+PyAudio==0.2.14
+rich==12.6.0
+textual==0.1.18
